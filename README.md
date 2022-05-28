@@ -1,18 +1,23 @@
 # Automação de tarefas no envio de mensagens
 
-### Lista sequencial das atividades
+### Descrição:
+Com esse projeto, pretendemos mostrar nosso avanço e conhecimento nas áreas de Desenvolvimento para dispositivos móveis e Testes de Software.
+
+### Lista sequencial das atividades:
 
 - Pesquisa e Documentação
 - Desenvolvimento inicial
 - Teste de implementação
 - Documentação do projeto
 
+### Cronograma:
+
 ```mermaid
 gantt
 title Cronograma do projeto
 dateFormat DD-MM-YYYY
 section Pesquisa e Documentação
- Definição do projeto     		:a1, 24-05-2022, 7d
+ Definição do cronograma     		:a1, 24-05-2022, 7d
  Primeira pesquisa        		:a2, after a1, 10d
  Documentação Inicial     		:a3, after a2, 55d
  Levantamento da literatura 		:a4, after a2, 3d
@@ -43,14 +48,12 @@ section Documentação do projeto
 - Inicia-se também a documentação do projeto, que continuará até o final da etapa de [Testes de Implementação](https://github.com/HetrisleyGomes/PI#teste-de-implementa%C3%A7%C3%A3o).
 
 #### **Desenvolvimento inicial:**
-- Com as pesquisas e diagramas prontos, iniciaremos a contrução de um protótipo
--
+- Com as pesquisas e diagramas prontos, iniciaremos a contrução de um protótipo.
 
 #### **Teste de implementação:**
-- 
--
+- Com o prototipo já em mãos, iniciaremos uma etapa de testes, para encontrar e corrigir possíveis erros.
 
 #### **Documentação do projeto**
-- 
--
+- Após todo esse período, finalizariamos a documentação do relatório.
+- Preparariamos também os slides e a contrução da defesa do projeto.
 
