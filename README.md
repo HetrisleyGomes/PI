@@ -1,8 +1,11 @@
-# Anotações do Projeto Integrador
+# Automação de tarefas no envio de mensagens
 
-----
+### Lista sequencial das atividades
 
-exemplo:
+- Pesquisa e Documentação
+- Desenvolvimento inicial
+- Teste de implementação
+- Documentação do projeto
 
 ```mermaid
 gantt
@@ -10,23 +13,41 @@ title Cronograma do projeto
 dateFormat DD-MM-YYYY
 section Pesquisa e Documentação
  Definição do projeto     :a1, 24-05-2022, 7d
- primeira pesquisa        :a2, after a1, 10d
- documentação             :a3, after a2, 8d
+ Primeira pesquisa        :a2, after a1, 10d
+ Documentação Inicial     :a3, after a2, 55d
+ Levantamento da literatura :a4, after a2, 3d
+	Levantamento dos requisito e dados	:3d
+	Diagramas uml (caso de uso, classe, componentes) :3d
 
 section Desenvolvimento Inicial
-  Preparação do ambiente de trabalho      :a4, after a3, 2d
-  Começo do desenvolvimento do prototipo  :a5, after a4, 18d
+  Preparação do ambiente de trabalho      :2d
+  Começo do desenvolvimento do prototipo  :18d
 
 section Testes de Implementação
-  teste de layout     :3d
-  testes unitários    :6d
-  testes de serviço   :6d
-  correção de erros   :5d
-  nova etapa de testes:12d
+  Teste de layout     :3d
+  Testes unitários    :4d
+  Testes de serviço   :4d
+  Correção de erros   :5d
+  Nova etapa de testes:10d
   
 section Documentação do projeto
-  inicio da documentação           :5d
-  envio para revisão do orientador :2d
-  revisão da documentação          :5d
+  Refinamento da Documentação      :after a3, 5d
+  Envio para revisão do orientador :2d
+  Revisão da documentação          :5d
+  Preparação dos slides												:3d
 
 ```
+### Descrição dos grupos das atividades e das atividades:
+#### **Pesquisa e Documentação:**
+- 
+- 
+- 
+#### **Desenvolvimento inicial:**
+- 
+- 
+#### **Teste de implementação:**
+- 
+- 
+#### **Documentação do projeto**
+- 
+-
