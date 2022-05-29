@@ -45,7 +45,7 @@ section Documentação do projeto
 ### Descrição dos grupos das atividades e das atividades:
 #### **Pesquisa e Documentação:**
 - Aqui é onde iniciaremos a pesquisa e definição das etapas do processo, sera uma etapa com bastante pesquisa.
-- Inicia-se também a documentação do projeto, que continuará até o final da etapa de [Testes de Implementação](https://github.com/HetrisleyGomes/PI#teste-de-implementa%C3%A7%C3%A3o).
+- Inicia-se também a documentação do projeto, que continuará até o final da etapa de Testes de Implementação.
 
 #### **Desenvolvimento inicial:**
 - Com as pesquisas e diagramas prontos, iniciaremos a contrução de um protótipo.
