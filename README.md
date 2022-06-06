@@ -61,4 +61,17 @@ section Documentação do projeto
 
 ## Imagens das telas
 
-![tela_01](/imgs/Telas01.png)
+
+### Telas iniciais
+<img src="/imgs/Telas01.PNG" alt="telas iniciais" style="height: 500px; width:auto;"/>
+
+### Telas de gerenciamento
+<img src="/imgs/Telas02.PNG" alt="telas iniciais" style="height: 500px; width:auto;"/>
+
+### Telas contatos
+<img src="/imgs/Telas03.PNG" alt="telas contatos" style="height: 300px; width:auto;"/>
+
+### Telas configurações
+<img src="/imgs/Telas04.PNG" alt="telas configurações" style="height: 300px; width:auto;"/>
+<img src="/imgs/Telas05.PNG" alt="telas configurações" style="height: 300px; width:auto;"/>
+
