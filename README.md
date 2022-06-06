@@ -61,4 +61,4 @@ section Documentação do projeto
 
 ## Imagens das telas
 
-!(tela_01)[/imgs/Telas01.png]
+![tela_01](/imgs/Telas01.png)
