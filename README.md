@@ -63,23 +63,30 @@ section Documentação do projeto
 
 
 ### Telas iniciais
-<img src="/imgs/Telas01.PNG" alt="telas iniciais" style="height: 500px; width:auto;"/>
+<img src="/imagens/Telas01.PNG" alt="telas iniciais" style="height: 300px; width:auto;"/>
+<img src="/imagens/Telas01_2.PNG" alt="telas iniciais" style="height: 300px; width:auto;"/>
+
+A primeira tela é uma demonstração da tela de carregamento inicial, a segunda tela mostra o leyout do app, Nesse leyout podemos ver:
+
+As janelas de visualização de chatbots salvos e os agendados por data (que por enquanto estão vazios); O menu extensivo, que revela as opçoes de configurações, permiçoes e politicas privacidade; E por fim um ícone onde nos possibilitarar a criação de novos chatbots.
 
 ### Telas de gerenciamento
-<img src="/imgs/Telas02.PNG" alt="telas iniciais" style="height: 500px; width:auto;"/>
+<img src="/imagens/Telas02.PNG" alt="telas de gerenciamento" style="height: 300px; width:auto;"/>
+<img src="/imagens/Telas02_2.PNG" alt="telas iniciais" style="height: 300px; width:auto;"/>
 
 ### Telas contatos
-<img src="/imgs/Telas03.PNG" alt="telas contatos" style="height: 300px; width:auto;"/>
+<img src="/imagens/Telas03.PNG" alt="telas contatos" style="height: 300px; width:auto;"/>
 
 ### Telas configurações
-<img src="/imgs/Telas04.PNG" alt="telas configurações" style="height: 300px; width:auto;"/>
-<img src="/imgs/Telas05.PNG" alt="telas configurações" style="height: 300px; width:auto;"/>
+<img src="/imagens/Telas04.PNG" alt="telas configurações" style="height: 300px; width:auto;"/>
 
 Na parte inicial apresenta a foto do usuário, com as opções de alterar foto, visualização de cadastro, central de ajuda e apagar conta.
 
 Na visualização de cadastro, o usuário consegue ver seus dados vinculados a aplicação, dando a opção de fazer edições do nome, telefone e email, sendo que estes devem seguir o padrão de preenchimento, ao finalizar a visualização/edição, tem a opção de salvar ou voltar, para caso não deseje realizar a alteração e ao clicar em salvar, as informações devem imediatamente ser apresentada ao usuário na mesma tela que faz a edição.
 
 Na opção de alterar foto, torna-se um campo optativo de inserir ou não a foto, ao clicar em escolher, deve ser direcionado ao diretório do dispositivo para buscar a foto desejada, caso não deseje fazer a alteração é só clicar em voltar, que retornará a tela de configuração.
+
+<img src="/imagens/Telas05.PNG" alt="telas configurações" style="height: 300px; width:auto;"/>
 
 Na opção de apagar conta, faz a pergunta se realmente deseje apagar a conta, se confirmar, o aplicativo deve direcionar o usuário a tela de cadastro, caso clicar em não, deve retornar a tela de configuração.
 
