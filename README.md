@@ -72,7 +72,20 @@ As janelas de visualização de chatbots salvos e os agendados por data (que por
 
 ### Telas de gerenciamento
 <img src="/imagens/Telas02.PNG" alt="telas de gerenciamento" style="height: 300px; width:auto;"/>
+
+#### Gerenciamento 1:
+Aqui são as telas de criação de chatbots, começando na primeira que seria a opção mais genérica de chatbot, logo de começo damos um nome a esse chat para ajudar na sua organização, abaixo tem o espaço para salvar as respostas por pergunta, como por exemplo informar ao app o que dizer se outra pessoa enviar um "oi", ainda nessa parte tem uma opção que pode ser marcada, chamada 'Mensagem guia', que caso outra pessoa envie uma mensagem que não possui resposta, o chatbot informaria as opções disponíveis.
+
+Na parte mais abaixo temos a opção de informar quem esse chat responderá, podendo ser um grupo de contatos selecionados, todos os contatos, e qualquer número. Por fim vem a opção de qual(is) aplicativos o chat irá funcionar, neste exemplo, marcamos o whatsapp, telegram e sms.
+
+#### Gerenciamento 2:
+A segunda tela não é tão diferente da primeira, porem essa tela mostra os chatbots agendados por data. Logo de começo a opção de por um nome neste chat, em baixo a mensagem a ser enviada, desta vez a mensagem não precisa que o seu contato envie uma mensagem como gatilho, ao invés disso esse gatilho será por data, logo a cima tem a opção de confirmação de envio, se essa opção for selecionada, antes do app enviar a mensagem ele pedirá uma confirmação para enviar.
+
+Abaixo tem a opção de quem será enviada a mensagem, podendo adicionar de um em um ou todos os contatos de uma vez, nessa parte o ussuário vai escolher entre usar uma data para cada contato, ou selecionar a opção data por conjunto, onde é informado uma data onde será enviado a todos que estiverem marcados. Essa opção só será disponibilizada primeiramente ao aplicativo whatsapp.
+
+
 <img src="/imagens/Telas02_2.PNG" alt="telas iniciais" style="height: 300px; width:auto;"/>
+Aqui estão as telas iniciais com chatbots salvos.
 
 ### Telas contatos
 <img src="/imagens/Telas03.PNG" alt="telas contatos" style="height: 300px; width:auto;"/>
