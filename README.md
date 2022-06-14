@@ -1,6 +1,6 @@
 # Automação de tarefas no envio de mensagens
 
-## Cronograma do progeto
+## Cronograma do projeto
 
 ### Descrição:
 Com esse projeto, pretendemos mostrar nosso avanço e conhecimento nas áreas de Desenvolvimento para dispositivos móveis e Testes de Software.
