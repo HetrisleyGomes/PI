@@ -1,4 +1,5 @@
-## Semana 04 e 05: Cronograma
+# Semana 04 e 05: Cronograma
+## Cronograma do projeto
 
 ### Descrição:
 Com esse projeto, pretendemos mostrar nosso avanço e conhecimento nas áreas de Desenvolvimento para dispositivos móveis e Testes de Software.
