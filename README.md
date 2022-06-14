@@ -89,6 +89,13 @@ Aqui estão as telas iniciais com chatbots salvos.
 
 ### Telas contatos
 <img src="/imagens/Telas03.PNG" alt="telas contatos" style="height: 300px; width:auto;"/>
+Na primeira tela inicia-se com a página principal de adicionar um novo contato para o chatbot. Nessa tela de Novo contato, novos usuários poderão ser cadastrados no chatbot, serão adicionados os dados deles, sendo o nome, telefone e o e-mail. Nessa tela terá a opção de salvar o contato e uma opção de voltar. Esse botão de voltar será utilizado assim que o novo contato for adicionado na lista, com isso será redirecionado para a tela de visualizar a lista de contatos.
+
+Na segunda tela temos uma lista com todos os usuários que foram cadastrados no chatbot. Essa lista especifica o nome do usuário e a foto, a foto é optativa, podendo ou não colocar a foto.
+Na listagem, tem a opção de adicionar um novo contato também, para cadastrar mais usuários, clicando nesse botão, será redirecionado automaticamente para a primeira tela, a de novos contatos.
+Voltando para a listagem dos contatos, lá temos a opção de pesquisar o contato, a partir do nome do usuário.
+Por fim, ao clicar no nome do usuário, será redirecionado para uma nova conversa.
+
 
 ### Telas configurações
 <img src="/imagens/Telas04.PNG" alt="telas configurações" style="height: 300px; width:auto;"/>
