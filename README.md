@@ -1,5 +1,13 @@
 # Automação de tarefas no envio de mensagens
 
+**Seminário de Orientação de Projeto Integrador**
+
+**Alunos:**
+- Alan Alves
+- Amanda Rodrigues
+- Hetrisley Gomes
+
+
 ## Cronograma do projeto
 
 ### Descrição:
