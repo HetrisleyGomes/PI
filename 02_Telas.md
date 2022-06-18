@@ -45,16 +45,12 @@ Por fim, ao clicar no nome do usuário, será redirecionado para uma nova conver
 
 ### Telas configurações
 
-Na parte inicial apresenta a foto do usuário, com as opções de alterar foto, visualização de cadastro, central de ajuda e apagar conta.
+Na parte inicial apresenta a foto do usuário, visualização de cadastro e apagar conta.
 
-Na visualização de cadastro, o usuário consegue ver seus dados vinculados a aplicação, dando a opção de fazer edições do nome, telefone e email, sendo que estes devem seguir o padrão de preenchimento, ao finalizar a visualização/edição, tem a opção de salvar ou voltar, para caso não deseje realizar a alteração e ao clicar em salvar, as informações devem imediatamente ser apresentada ao usuário na mesma tela que faz a edição.
-
-Na opção de alterar foto, torna-se um campo optativo de inserir ou não a foto, ao clicar em escolher, deve ser direcionado ao diretório do dispositivo para buscar a foto desejada, caso não deseje fazer a alteração é só clicar em voltar, que retornará a tela de configuração.
+Na visualização de cadastro, o usuário consegue ver seus dados vinculados a aplicação, dando a opção de fazer alterar foto, edições do nome, telefone e email, sendo que estes devem seguir o padrão de preenchimento, ao finalizar a visualização/edição, tem a opção de salvar ou voltar, para caso não deseje realizar a alteração e ao clicar em salvar, as informações devem imediatamente ser apresentada ao usuário na mesma tela que faz a edição.
 
 <img src="/imagens/Telas04.PNG" alt="telas configurações" style="height: 300px; width:auto;"/>
 
 Na opção de apagar conta, faz a pergunta se realmente deseje apagar a conta, se confirmar, o aplicativo deve direcionar o usuário a tela de cadastro, caso clicar em não, deve retornar a tela de configuração.
-
-A opção de central de ajuda, traz informações acerca do aplicativo, em relação ao conceito e uso.
 
 <img src="/imagens/Telas05.PNG" alt="telas configurações" style="height: 300px; width:auto;"/>
