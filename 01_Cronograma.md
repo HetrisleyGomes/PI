@@ -21,7 +21,7 @@ section Pesquisa e Documentação
  Definição do cronograma     		:a1, 24-05-2022, 7d
  Primeira pesquisa        		:a2, after a1, 10d
  Documentação Inicial     		:a3, after a2, 55d
- Levantamento da literatura 		:a4, after a2, 3d
+ Criação de telas para modelo 		:a4, after a2, 3d
  Levantamento dos requisito e dados	:3d
  Diagramas uml (caso de uso, classe, componentes) :3d
 
