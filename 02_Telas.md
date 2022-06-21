@@ -49,8 +49,7 @@ Na parte inicial apresenta a foto do usuário, visualização de cadastro e apag
 
 Na visualização de cadastro, o usuário consegue ver seus dados vinculados a aplicação, dando a opção de fazer alterar foto, edições do nome, telefone e email, sendo que estes devem seguir o padrão de preenchimento, ao finalizar a visualização/edição, tem a opção de salvar ou voltar, para caso não deseje realizar a alteração e ao clicar em salvar, as informações devem imediatamente ser apresentada ao usuário na mesma tela que faz a edição.
 
-<img src="/imagens/Telas04.PNG" alt="telas configurações" style="height: 300px; width:auto;"/>
-
 Na opção de apagar conta, faz a pergunta se realmente deseje apagar a conta, se confirmar, o aplicativo deve direcionar o usuário a tela de cadastro, caso clicar em não, deve retornar a tela de configuração.
 
-<img src="/imagens/Telas05.PNG" alt="telas configurações" style="height: 300px; width:auto;"/>
+<img src="/imagens/Telas04.PNG" alt="telas configurações" style="height: 300px; width:auto;"/>
+
