@@ -7,6 +7,10 @@
 - Amanda Rodrigues
 - Hetrisley Gomes
 
+** Sumário: **
+- [Cronograma](#cronograma-do-projeto);
+- [Imagens](#imagens-das-telas);
+
 
 ## Cronograma do projeto
 
