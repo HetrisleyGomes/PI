@@ -73,6 +73,8 @@ section Documentação do projeto
 - Após todo esse período, finalizariamos a documentação do relatório.
 - Preparariamos também os slides e a contrução da defesa do projeto.
 
+[Voltar ao início](#automação-de-tarefas-no-envio-de-mensagens)
+
 ---
 
 ## Imagens das telas
@@ -128,6 +130,8 @@ Na visualização de cadastro, o usuário consegue ver seus dados vinculados a a
 Na opção de apagar conta, faz a pergunta se realmente deseje apagar a conta, se confirmar, o aplicativo deve direcionar o usuário a tela de cadastro, caso clicar em não, deve retornar a tela de configuração.
 
 <img src="/imagens/Telas04.PNG" alt="telas configurações" style="height: 300px; width:auto;"/>
+
+[Voltar ao início](#automação-de-tarefas-no-envio-de-mensagens)
 
 ---
 
