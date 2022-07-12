@@ -4,11 +4,16 @@
 ### Descrição:
 Demonstraçao das telas da aplicação de Automação de tarefas no envio de mensagens.
 
-### Telas iniciais
-<img src="/imagens/Telas01.PNG" alt="telas iniciais" style="height: 300px; width:auto;"/>
+### Diagrama de Banco de dados:
 
-A primeira tela é uma demonstração da tela de carregamento inicial, a segunda tela mostra o leyout do app ainda vazio, A partir dessa tela podemos ver:
+Esse diagrama uml mostra a relação de banco de dados, no nosso app todas as informações são salvas de maneira interna, o que quer dizer que não teremos um banco de dados externo para gerenciar as informações dos usuários, teremos apenas um com as configurações individuais. Segue o diagrama:
 
-<img src="/imagens/Telas01_2.PNG" alt="telas iniciais" style="height: 300px; width:auto;"/>
+<img src="/imagens/Diagrama_db.jpg" alt="telas iniciais" style="height: 400px; width:auto;"/>
 
-As janelas de visualização de chatbots salvos e os agendados por data; O menu extensivo, que revela as opçoes de configurações, permiçoes e politicas privacidade; E por fim um ícone onde nos possibilitarar a criação de novos chatbots.
+
+### Diagrama de Caso de uso:
+
+Esse diagrama mostra as relações que o usuário terá com a aplicação. Segue o diagrama:
+
+<img src="/imagens/Diagrama_casouso.jpg" alt="telas iniciais" style="height: 500px; width:auto;"/>
+
