@@ -7,10 +7,12 @@
 - Amanda Rodrigues
 - Hetrisley Gomes
 
-** Sumário: **
+***Sumário:***
 - [Cronograma](#cronograma-do-projeto);
 - [Imagens](#imagens-das-telas);
+- [Conclusões Finais (*vazio por enquanto*)](#fim);
 
+---
 
 ## Cronograma do projeto
 
@@ -75,7 +77,6 @@ section Documentação do projeto
 
 ## Imagens das telas
 
-
 ### Descrição:
 Demonstraçao das telas da aplicação de Automação de tarefas no envio de mensagens.
 
@@ -128,3 +129,6 @@ Na opção de apagar conta, faz a pergunta se realmente deseje apagar a conta, s
 
 <img src="/imagens/Telas04.PNG" alt="telas configurações" style="height: 300px; width:auto;"/>
 
+---
+
+## fim
