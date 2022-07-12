@@ -2,7 +2,7 @@
 ## Diagramas
 
 ### Descrição:
-Demonstraçao das telas da aplicação de Automação de tarefas no envio de mensagens.
+Apresentação dos diagramas de banco de dados e de caso de uso.
 
 ### Diagrama de Banco de dados:
 
