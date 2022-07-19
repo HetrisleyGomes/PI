@@ -4,7 +4,7 @@
 
 **Alunos:**
 - Alan Alves
-- Amanda Rodrigues
+- [Amanda Rodrigues](https://github.com/amanda-rosa)
 - Hetrisley Gomes
 
 ***Sumário:***
