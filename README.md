@@ -5,7 +5,7 @@
 **Alunos:**
 - Alan Alves
 - [Amanda Rodrigues](https://github.com/amanda-rosa)
-- Hetrisley Gomes
+- [Hetrisley Gomes](https://github.com/HetrisleyGomes)
 
 ***Sumário:***
 - [Cronograma](#cronograma-do-projeto);
