@@ -3,11 +3,12 @@
 
 ### Diagramas
 
-Diagrama de Componentes:
+**Diagrama de Componentes:** Nesse diagrama de componentes, usamos as três disciplinas para montá-lo, Por parte da IoT vamos usar os serviços do twilio para para conectar pela internet para análisar e responder os clientes. Em conexão a internet teremos a aplicação, que será construido no Delphi, e está diretamente integrado aos testes de cobertura do software através de ferramentas como o Code Coverage.
 
-<img src="/imagens/Diagrama_comp.png" alt="Diagrama de Componentes" style="height: 300px; width:auto;"/>
+<img src="/imagens/Diagrama_comp.jpg" alt="Diagrama de Componentes" style="height: 300px; width:auto;"/>
 
-Diagrama de Componentes e Diagrama de Componentes:
+
+**Diagrama de Componentes e Diagrama de Componentes:**
 
 <img src="/imagens/Diagrama_BancoDados.jpg" alt="Diagrama de Componentes" style="height: 300px; width:auto;"/>  <img src="/imagens/Diagrama_CasodeUso.jpg" alt="Diagrama de Componentes" style="height: 300px; width:auto;"/>
 
@@ -31,8 +32,7 @@ Com a IDE delphi, planejaremos desenvolver um aplicativo mobile para poder geren
 Integração com Twilio no ambiente de desenvolvimento delphi, será acessado por meio de serviços em nuvem, que será o meio de comunicação com entre dois ou mais dispositivos, nela os usuários poderão enviar e receber mensagens de forma automática e programada, bem como possibilitará comunicação via sms e Whatsapp.
 O Twilio faz parte da CPaas (Plataforma de Comunicação em Serviço), que é 100% nas nuvens, possibilitando fazer ligações, sms, e-mails, push e whatsapp.
 
-Ver mais sobre o Twilio e o envio de mensagens: <a href='https://www.twilio.com/docs/sms/send-messages' target="_blank">Envio de mensagens</a> , https://www.twilio.com/pt-br/docs/conversations ,
-https://www.twilio.com/docs/sms/tutorials/how-to-send-sms-messages-delphi
+_( Ver mais sobre o Twilio e o envio de mensagens: <a href="https://www.twilio.com/docs/sms/send-messages" target="_blank">Envio de mensagens</a> , <a href="https://www.twilio.com/pt-br/docs/conversations" target="_blank">Conversas</a> , <a href="https://www.twilio.com/docs/sms/tutorials/how-to-send-sms-messages-delphi" target="_blank">Como enviar mensagens pelo delphi</a> )_
 
 
 
