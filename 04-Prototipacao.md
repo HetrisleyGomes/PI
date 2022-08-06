@@ -10,6 +10,7 @@ Diagrama de Componentes:
 Diagrama de Componentes e Diagrama de Componentes:
 
 <img src="/imagens/Diagrama_BancoDados.jpg" alt="Diagrama de Componentes" style="height: 300px; width:auto;"/>  <img src="/imagens/Diagrama_CasodeUso.jpg" alt="Diagrama de Componentes" style="height: 300px; width:auto;"/>
+
 para mais informações sobre esses diagramas clique [aqui](https://github.com/HetrisleyGomes/PI/blob/main/03-Diagramas.md)
 
 
