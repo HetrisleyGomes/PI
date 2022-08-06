@@ -28,7 +28,13 @@ Com a IDE delphi, planejaremos desenvolver um aplicativo mobile para poder geren
 
 #### Internet das Coisas
 
-Integração com Twilio no ambiente de desenvolvimento delphi, será acessado por meio de serviços em nuvem, que será o meio de comunicação com entre dois ou mais dispositivos, nela os usuários poderão enviar e receber mensagens de forma automática e programada, bem como possibilitará comunicação via sms…
+Integração com Twilio no ambiente de desenvolvimento delphi, será acessado por meio de serviços em nuvem, que será o meio de comunicação com entre dois ou mais dispositivos, nela os usuários poderão enviar e receber mensagens de forma automática e programada, bem como possibilitará comunicação via sms e Whatsapp.
+O Twilio faz parte da CPaas (Plataforma de Comunicação em Serviço), que é 100% nas nuvens, possibilitando fazer ligações, sms, e-mails, push e whatsapp.
+
+Ver mais sobre o Twilio e o envio de mensagens: <a href='https://www.twilio.com/docs/sms/send-messages' target="_blank">Envio de mensagens</a> , https://www.twilio.com/pt-br/docs/conversations ,
+https://www.twilio.com/docs/sms/tutorials/how-to-send-sms-messages-delphi
+
+
 
 #### Testes
 
