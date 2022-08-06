@@ -1,0 +1,26 @@
+@startuml
+
+skinparam componentStyle uml2
+
+title Packages - Component Diagram
+
+package "Mobile" {
+    component [Interface gráfica (Delphi)] as GUI
+}
+
+cloud Internet {
+}
+ 
+node "IoT" {
+    [Automação de serviços]
+}
+
+package "Teste de Software" {
+    component [Teste de cobertura] as tc
+}
+
+GUI -down-> Internet
+GUI - tc
+IoT -Internet
+
+@enduml
