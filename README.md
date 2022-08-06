@@ -9,8 +9,8 @@
 
 ***Sumário:***
 - [Cronograma](#cronograma-do-projeto);
-- [Imagens](#imagens-das-telas);
 - [Diagramas](#diagramas);
+- [Imagens](#imagens-das-telas);
 - [Conclusões Finais (*vazio por enquanto*)](#fim);
 
 ---
