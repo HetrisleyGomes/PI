@@ -5,7 +5,7 @@
 
 **Diagrama de Componentes:** Nesse diagrama de componentes, usamos as três disciplinas para montá-lo, Por parte da IoT vamos usar os serviços do twilio para para conectar pela internet para analisar e responder os clientes. Em conexão a internet teremos a aplicação, que será construída no Delphi, e está diretamente integrada aos testes de cobertura do software através de ferramentas como o Code Coverage.
 
-<img src="/imagens/Diagrama_comp.jpg" alt="Diagrama de Componentes" style="height: 300px; width:auto;"/>
+<img src="/imagens/Diagrama_comp.jpeg" alt="Diagrama de Componentes" style="height: 300px; width:auto;"/>
 
 
 **Diagrama de Banco de dados e Diagrama de Caso de uso:**
